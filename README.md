@@ -3,7 +3,7 @@
   Easy-Shopping</h1>
 
 
-<h2>Meus primeiros projetos de aprendizagem no Devclub</h2>
+<h2>Meus primeiros projetos Devclub</h2>
 
 <p>Esse e um dos projetos de aprendizagem de CSS com <a href="https://www.devclub.com.br">Devclub </a> </p>
 
