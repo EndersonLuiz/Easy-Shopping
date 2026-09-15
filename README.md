@@ -13,4 +13,5 @@ Aqui utilizei :
 <br>
 <img src="https://ultimatecourses.com/assets/category/css-fcba6b473cb1125595dc28163be24eb673907258b5f6f6c82967a0587a9df20c.svg" width="30px"> -CSS  
 
-E Utiliza-los de forma responsiva.
+
+<img width="1913" height="924" alt="{587BFF81-E0C3-410E-899B-92B3DA0FCC7E}" src="https://github.com/user-attachments/assets/c73b71f0-dda9-4a19-ab2c-845fa61dd7ac" />
